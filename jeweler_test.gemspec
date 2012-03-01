@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "jeweler_test.gemspec",
+    "joseCalderon-Celis",
     "lib/jeweler_test.rb",
     "test/helper.rb",
     "test/test_jeweler_test.rb"

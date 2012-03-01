@@ -14,7 +14,8 @@ Gem::Specification.new do |s|
   s.email = "ver@confluencia.net"
   s.extra_rdoc_files = [
     "LICENSE.txt",
-    "README.rdoc"
+    "README.rdoc",
+    "TODO"
   ]
   s.files = [
     ".document",
@@ -24,6 +25,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "TODO",
     "VERSION",
     "jeweler_test.gemspec",
     "joseCalderon-Celis",
